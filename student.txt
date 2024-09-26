@@ -1,0 +1,10 @@
+Chức năng: lấy danh sách sinh viên,
+lấy thông tin sinh viên theo id,
+thêm, sửa, xóa sinh viên
+
+*cấu trúc bài thực hành
+- models: chứa các cấu trúc dữ liệu và logic liên quan đến mô hình
+    tạo 1 struct chứa id, name, age, averageMask
+    tạo 1 slice chứ ds sv
+    tạo các hàm 
+
